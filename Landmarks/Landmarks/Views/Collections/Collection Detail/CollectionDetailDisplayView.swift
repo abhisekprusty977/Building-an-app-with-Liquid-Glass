@@ -32,5 +32,3 @@ struct CollectionDetailDisplayView: View {
 
     CollectionDetailDisplayView(collection: previewCollection)
 }
-
-//Mark : Test
