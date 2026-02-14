@@ -8,3 +8,5 @@ Leveraging the system-provided glass effect in toolbars.
 Applying Liquid Glass effects to custom interface elements and animations.
 Building a new app icon with Icon Composer.
 The sample also demonstrates several techniques to use when changing window sizes, and for adding global search.
+
+<img width="1983" height="1156" alt="mermaid-diagram-2026-02-15-000709" src="https://github.com/user-attachments/assets/6d78b426-caa0-4412-95db-7d1465608ed4" />
